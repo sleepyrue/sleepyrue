@@ -7,7 +7,7 @@
 </p>
 
 
-- 👨‍💻 Currently working on [Bricklash](https://bricklash.com/)
+- 👨‍💻 Currently working on [Bricklash](https://bricklashgames.com/)
 
 - 📫 You can reach me by discord : @sleepyrue
 
