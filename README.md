@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently working on [Bricklash](https://bricklash.com/)
 
-- 📫 You can reach me by discord : @sleepyrue).
+- 📫 You can reach me by discord : @sleepyrue
 
 
 <h3 align="left">Tech Stack:</h3>
