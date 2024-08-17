@@ -7,7 +7,7 @@
 </p>
 
 
-- 👨‍💻 Currently working on [Bricklash](https://bricklashgames.com/)
+- 👨‍💻 Currently working on [Bricklash]((https://bricklash.itch.io/bricklash-2d-adventure)/)
 
 - 📫 You can reach me by discord : @sleepyrue
 
